@@ -4,7 +4,7 @@
 <path d="M42 42 H108" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
 <g font-family="Arial, sans-serif"><text x="42" y="84" font-size="15" letter-spacing="3" fill="#93c5fd">BUILDING THROUGH PRACTICE</text>
 <text x="42" y="141" font-size="44" font-weight="bold" fill="#f8fafc">Adham Muayad Hashem</text>
-<text x="42" y="179" font-size="22" fill="#cbd5e1">Web Development · Databases · Object-Oriented Programming</text>
+<text x="42" y="179" font-size="22" fill="#cbd5e1">Web Development · Databases · OOP · Networking</text>
 <rect x="42" y="210" width="415" height="36" rx="18" fill="#ffffff" opacity=".07"/>
 <text x="62" y="233" font-size="15" fill="#c4b5fd">HTML / CSS / JS   ·   PHP / SQL   ·   Java / Python</text>
 <text x="850" y="165" text-anchor="middle" font-size="72" font-weight="bold" fill="#a5b4fc" opacity=".7">AH</text></g></svg>
