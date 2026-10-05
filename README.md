@@ -39,7 +39,6 @@ Click a card to explore the code, setup instructions and project details.
 | [![Library Management](assets/java-library.svg)](https://github.com/adhammr223-cyber/Library-Management-Java) | [![Bank System](assets/python-bank.svg)](https://github.com/adhammr223-cyber/Bank-System-Python) |
 | [![Student Management](assets/student-management.svg)](https://github.com/adhammr223-cyber/Assignment-11-Adham-Muayad-Hashem_1320231720) | [![Bakery & Sweets Store](assets/bakery-store.svg)](https://github.com/adhammr223-cyber/Finale_Adham_Muayad_Hashem-1320231720) |
 | [![Restaurant Website](assets/restaurant-site.svg)](https://github.com/adhammr223-cyber/Finale_Adham-Muayad-Hashem_1320231720) | [![To-Do List](assets/todo-list.svg)](https://github.com/adhammr223-cyber/Assignment-9-Adham-Muayad-Hashem_1320231720) |
-
 | [![Library Database](assets/sql-library.svg)](https://github.com/adhammr223-cyber/Library-Database-SQL) | [![Campus Network](assets/campus-network.svg)](https://github.com/adhammr223-cyber/Campus-Network-Packet-Tracer) |
 
 ---
@@ -66,4 +65,5 @@ My project experience is documented in the linked repositories. Explore the [SQL
 
 <p align="center"><strong>Learn it. Build it. Understand it.</strong></p>
 <p align="center"><a href="https://adhammr223-cyber.github.io/-Assignment-6-Adham-Muayad-Hashem_1320231720/">Portfolio</a> · <a href="https://github.com/adhammr223-cyber?tab=repositories">Explore all projects</a></p>
+
 
