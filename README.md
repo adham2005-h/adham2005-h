@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Adham Muayad Hashem — Intelligent Systems and Computer Engineering" width="100%">
+  <img src="assets/banner.svg?v=6614bf8" alt="Adham Muayad Hashem — Intelligent Systems and Computer Engineering" width="100%">
 </p>
 
 <p align="center">
