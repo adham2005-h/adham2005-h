@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Adham Muayad Hashem — Intelligent Systems and Computer Engineering Student" width="100%">
+  <img src="assets/banner.svg" alt="Adham Muayad Hashem — Intelligent Systems and Computer Engineering" width="100%">
 </p>
 
 <p align="center">
@@ -8,11 +8,11 @@
   <a href="https://github.com/adhammr223-cyber?tab=overview#contributions"><img src="assets/activity.svg" alt="GitHub activity"></a>
 </p>
 
-<p align="center"><strong>Intelligent Systems &amp; Computer Engineering Student</strong><br>Web Development · Databases · OOP · Networking</p>
+<p align="center"><strong>Intelligent Systems &amp; Computer Engineering</strong><br>Web Development · Databases · OOP · Networking</p>
 
 ## 👋 About Me
 
-I'm Adham, an **Intelligent Systems and Computer Engineering student**. I build web interfaces, database applications and console systems to put what I learn into practice. My projects use **HTML, CSS, JavaScript, PHP, MySQL, Java and Python**. I also have hands-on experience with **SQL and networking projects**.
+I'm Adham. My focus is **Intelligent Systems and Computer Engineering**. I build web interfaces, database applications and console systems to put what I learn into practice. My projects use **HTML, CSS, JavaScript, PHP, MySQL, Java and Python**. I also have hands-on experience with **SQL and networking projects**.
 
 I like keeping my code clear, breaking a project into understandable parts, and learning by building something that works.
 
