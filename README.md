@@ -35,4 +35,4 @@ My public repositories document these projects. I also practice SQL and networki
 
 ## More work
 
-[Personal portfolio source](https://github.com/adhammr223-cyber/-Assignment-6-Adham-Muayad-Hashem_1320231720) · [All repositories](https://github.com/adhammr223-cyber?tab=repositories)
+[Live portfolio](https://adhammr223-cyber.github.io/-Assignment-6-Adham-Muayad-Hashem_1320231720/) · [Personal portfolio source](https://github.com/adhammr223-cyber/-Assignment-6-Adham-Muayad-Hashem_1320231720) · [All repositories](https://github.com/adhammr223-cyber?tab=repositories)
